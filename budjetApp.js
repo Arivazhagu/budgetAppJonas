@@ -120,3 +120,4 @@ document.getElementById("enterValue").addEventListener("click", function () {
     }
     
 });
+//from Gitihub
